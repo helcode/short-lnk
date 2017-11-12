@@ -1,5 +1,7 @@
-Short Lnk
+# Short Lnk
+
 This is a link shortner build on Meteor & react
 
-Authors
+## Authors
+
 helcode
